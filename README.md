@@ -21,7 +21,6 @@
 [<img align="left" alt="RStudio" width="26px" src="http://simpleicons.org/icons/rstudio.svg"/>]
 
 </br>
-</br>
 
 [linkedin]: https://www.linkedin.com/in/james-lemley
 
